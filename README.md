@@ -14,7 +14,7 @@
 
 | #    | Problem Name                                                                                      | Difficulty | Solution Link | Status      |
 | ---- | ------------------------------------------------------------------------------------------------- | ---------- | ------------- | ----------- |
-| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy    | [Solution](Pyspark-practice/Easy/1757. Recyclable and Low Fat Products) | ✅ Completed |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy    | [Solution](Phttps://github.com/Kalinga07/pyspark-practice/tree/f273a7b36bbbb7c3ae50a0109cae1c2d5ede0e72/Pyspark-practice/Easy/1757.%20Recyclable%20and%20Low%20Fat%20Products) | ✅ Completed |
 | 584  | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                     | 🟢 Easy    | [Solution](#) | ✅ Completed |
 | 595  | [Big Countries](https://leetcode.com/problems/big-countries/)                                     | 🟢 Easy    | [Solution](#) | ✅ Completed |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/)                                 | 🟢 Easy    | [Solution](#) | ✅ Completed |
