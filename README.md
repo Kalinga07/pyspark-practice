@@ -107,7 +107,3 @@
 | 1810 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)                 | 🟢 Easy    | [Solution](#) | ⚪ Not Started |
 
 ---
-
-If you want me to help track your progress or update status for other categories, just let me know!
-
-Would you like me to generate the final `.md` file with solution links when you have them?
