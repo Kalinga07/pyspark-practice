@@ -30,7 +30,7 @@
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)                                                               | 🟢 Easy   | [Solution](#) | ⚪ Not Started  |
 | 1581 | [Customers Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customers-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy  | [Solution](#) | ⚪ Not Started  |
 | 197  | [Rising Temperature](https://leetcode.com/problems/rising-temperature/)                                                                           | 🟢 Easy  | [Solution](#) | ⚪ Not Started  |
-| 1834 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)                                 | 🟠 Medium  | [Solution](#) | ⚪ Not Started  |
+|  | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)                                 | 🟠 Medium  | [Solution](#) | ⚪ Not Started  |
 
 ---
 
